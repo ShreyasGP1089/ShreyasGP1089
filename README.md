@@ -7,7 +7,7 @@
   - Email: shreyas.g.palimar@gmail.com  
   - LinkedIn: [Shreyas Palimar](https://www.linkedin.com/in/shreyas-palimar/)
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love experimenting — I recently integrated a WhatsApp automation project and an email classification module into my own apps to learn how they work under the hood.
+- ⚡ Fun fact: I love experimenting — I recently integrated an email classification module into my own apps to learn how they work under the hood.
 
 
 
