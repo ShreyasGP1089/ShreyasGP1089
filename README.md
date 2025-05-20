@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ShreyasGP1089
 
-- 👀 I’m interested in backend development, cloud deployment, and building scalable microservices.
+👀 I’m interested in backend development, cloud deployment, and building scalable microservices, but I am eager to learn new frameworks and technologies to be adaptable and resourceful, as the team requires.
 - 🌱 I’m currently learning Spring Boot, Docker, and exploring cloud platforms like AWS to understand how to deploy real-world applications.
 - 💞️ I’m looking to collaborate on backend-focused projects where I can grow my skills in cloud technologies and microservice architecture.
 - 📫 How to reach me:  
