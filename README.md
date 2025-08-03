@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spring Boot, Docker, and exploring cloud platforms like AWS to understand how to deploy real-world applications.
 - 📫 How to reach me:  
   - Email: shreyas.g.palimar@gmail.com  
-  - LinkedIn: [Shreyas Palimar](https://www.linkedin.com/in/shreyas-palimar/)
+  - LinkedIn: [Shreyas Palimar](https://www.linkedin.com/in/shreyas-palimar-a1a887284/)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love experimenting — I recently integrated an email classification module into my own apps to learn how they work under the hood.
 
