@@ -1,7 +1,7 @@
 # 👋 Hi, I am Shreyas G Palimar
 
-👀 I’m interested in backend development, cloud deployment, and building scalable microservices, but I am eager to learn new frameworks and technologies to be adaptable and resourceful, as the team requires.
-- 🌱 I’m currently learning Spring Boot, Docker, and exploring cloud platforms like AWS to understand how to deploy real-world applications.
+I’m interested in backend development, cloud deployment, and building scalable microservices, but I am eager to learn new frameworks and technologies to be adaptable and resourceful, as the team requires.
+- 🌱 I’m currently learning Spring Boot, Docker, React.js to understand how to deploy real-world applications.
 - 📫 How to reach me:  
   - Email: shreyas.g.palimar@gmail.com  
   - LinkedIn: [Shreyas Palimar](https://www.linkedin.com/in/shreyas-palimar-a1a887284/)
